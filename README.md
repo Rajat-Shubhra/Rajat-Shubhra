@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi there 👋 , I am Rajat Shubhra
+# 💫 About Me:
+🔭 I’m currently working on  Competitive Programming <br>💬 Ask me about my life <br>🌱 I’m currently learning Dynamic programming <br>⚡ Fun fact: The world's first computer bug wasn't actually a bug, but a moth! In 1945, Grace Hopper, a pioneer in computer science, found a malfunction in a Mark II computer caused by a moth stuck in a relay. She dubbed it a "bug", and the term stuck, forever connecting tiny glitches with creepy crawlies.
 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--
 **Rajat-Shubhra/Rajat-Shubhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
